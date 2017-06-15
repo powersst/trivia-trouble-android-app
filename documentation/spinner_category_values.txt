@@ -1,0 +1,81 @@
+<item>Any Category</item>
+<item>General Knowledge</item>
+<item>Entertainment: Books</item>
+<item>Entertainment: Film</item>
+<item>Entertainment: Music</item>
+<item>Entertainment: Musicals &amp; Theatres</item>
+<item>Entertainment: Television</item>
+<item>Entertainment: Video Games</item>
+<item>Entertainment: Board Games</item>
+<item>Science &amp; Nature</item>
+<item>Science: Computers</item>
+<item>Science: Mathematics</item>
+<item>Mythology</item>
+<item>Sports</item>
+<item>Geography</item>
+<item>History</item>
+<item>Politics</item>
+<item>Art</item>
+<item>Celebrities</item>
+<item>Animals</item>
+<item>Vehicles</item>
+<item>Entertainment: Comics</item>
+<item>Science: Gadgets</item>
+<item>Entertainment: Japanese Anime &amp; Manga</item>
+<item>Entertainment: Cartoon &amp; Animations</item>
+
+<item Value=">Any Category</item>
+<item Value="9">General Knowledge</item>
+<item Value="10">Entertainment: Books</item>
+<item Value="11">Entertainment: Film</item>
+<item Value="12">Entertainment: Music</item>
+<item Value="13">Entertainment: Musicals &amp; Theatres</item>
+<item Value="14">Entertainment: Television</item>
+<item Value="15">Entertainment: Video Games</item>
+<item Value="16">Entertainment: Board Games</item>
+<item Value="17">Science &amp; Nature</item>
+<item Value="18">Science: Computers</item>
+<item Value="19">Science: Mathematics</item>
+<item Value="20">Mythology</item>
+<item Value="21">Sports</item>
+<item Value="22">Geography</item>
+<item Value="23">History</item>
+<item Value="24">Politics</item>
+<item Value="25">Art</item>
+<item Value="26">Celebrities</item>
+<item Value="27">Animals</item>
+<item Value="28">Vehicles</item>
+<item Value="29">Entertainment: Comics</item>
+<item Value="30">Science: Gadgets</item>
+<item Value="31">Entertainment: Japanese Anime &amp; Manga</item>
+<item Value="32">Entertainment: Cartoon &amp; Animations</item>
+
+
+<item></item>
+<item>9</item>
+<item>10</item>
+<item>11</item>
+<item>12</item>
+<item>13</item>
+<item>14</item>
+<item>15</item>
+<item>16</item>
+<item>17</item>
+<item>18</item>
+<item>19</item>
+<item>20</item>
+<item>21</item>
+<item>22</item>
+<item>23</item>
+<item>24</item>
+<item>25</item>
+<item>26</item>
+<item>27</item>
+<item>28</item>
+<item>29</item>
+<item>30</item>
+<item>31</item>
+<item>32</item>
+
+http://ashvinhinsu.blogspot.in/2012/04/custom-spinner-example.html
+https://stackoverflow.com/questions/14603761/android-spinner-option-value-just-like-select-tag

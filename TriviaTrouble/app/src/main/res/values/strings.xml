@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Trivia Trouble</string>
+    <string name="msg_NoResults">Sorry! No results were found for this query.</string>
+
+    <!--**
+     * General
+     *-->
+    <string name="triviaItem_Type_TrueFalse">boolean</string>
+    <string name="triviaItem_Type_MultipleChoice">multiple</string>
+
+    <!--**
+     * ACTIVITY: Game Setup
+     *-->
+    <string name="gameSetup_Title">Game Setup</string>
+    <string name="gameSetup_QuestionCount_Title">Question Count:</string>
+    <string name="gameSetup_QuestionCount_Prompt">Question Count:</string>
+    <string name="gameSetup_QuestionCategory_Title">Question Category:</string>
+    <string name="gameSetup_QuestionCategory_Prompt">Question Category:</string>
+    <string name="gameSetup_QuestionDifficulty_Title">Question Difficulty:</string>
+    <string name="gameSetup_QuestionDifficulty_Prompt">Question Difficulty:</string>
+    <string name="gameSetup_QuestionType_Title">Question Type:</string>
+    <string name="gameSetup_QuestionType_Prompt">Question Type:</string>
+    <string name="gameSetup_Search_Text">Load Questions</string>
+    <string name="gameSetup_Begin_Text">Start Game!</string>
+    <string name="main_Title">Trivia Trouble</string>
+    <string name="main_Begin_Text">Start Game</string>
+    <string name="gameSetup_LoadError">An error has occurred. Please try again.</string>
+
+    <!--**
+     * ACTIVITY: In Game
+     *-->
+    <string name="inGame_Title">Game Setup</string>
+    <string name="endGame_Title">Results</string>
+    <string name="inGame_SubmitBtn">Submit Answer</string>
+    <string name="inGame_FinishBtn">Finish</string>
+    <string name="inGame_NextBtn">Next Question</string>
+    <string name="endGame_StartNewBtn">Start New Game</string>
+    <string name="endGame_ShareBtn">Share</string>
+    <string name="endGame_PlayerScore"></string>
+    <string name="endGame_Slash"> / </string>
+    <string name="endGame_TotalScore"></string>
+
+
+    <!--**
+     * ACTIVITY: In Game
+     *-->
+    <string name="settingsActivity_Title">Settings</string>
+    <string name="preferences_theme_key">app_theme</string>
+    <string name="preferences_theme_title">Application Theme</string>
+    <string name="preferences_theme_default">Default</string>
+</resources>
